@@ -118,14 +118,6 @@ python 3split_dataset_v2.py
 
 If you use this dataset in your research, please cite:
 
-```bibtex
-@inproceedings{zhou2025carlaround,
-  title={CARLA-Round: A Multi-Factor Simulation Dataset for Roundabout Trajectory Prediction},
-  author={Zhou, Xiaotong and Yuan, Zhenhui and Han, Yi and Xu, Tianhua and Yang, Laurence T.},
-  booktitle={IEEE International Conference on Intelligent Transportation Systems},
-  year={2025}
-}
-```
 
 ## Related Work
 
